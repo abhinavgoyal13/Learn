@@ -46,5 +46,8 @@ public class Main {
         StringCodes.reverseString("Abhinav");
         StringCodes.reverseStringUsingToCharArray("Abhinav");
         StringCodes.reverseStringUsingSwap("Abhilash");
+        StringCodes.countChars("Abhinav");
+        StringCodes.isAnagramUsingSort("Listen","Silent");
+      System.out.println(StringCodes.isAnagramWithoutUsingSort("Listen","silent"));
     }
 }
