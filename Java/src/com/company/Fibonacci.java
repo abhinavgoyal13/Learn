@@ -1,7 +1,6 @@
 package com.company;
 
 public class Fibonacci {
-
     public static void fibonacciByLimit(int x) {
         int x1 = 0;
         int x2 = 1;
