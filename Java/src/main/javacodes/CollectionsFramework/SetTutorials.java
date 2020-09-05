@@ -1,4 +1,4 @@
-package javacodes.CCI.Arrays;
+package javacodes.CollectionsFramework;
 
 import java.util.HashSet;
 import java.util.Iterator;

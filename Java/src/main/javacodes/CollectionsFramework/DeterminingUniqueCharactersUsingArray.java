@@ -1,4 +1,4 @@
-package javacodes.CCI.Arrays;
+package javacodes.CollectionsFramework;
 
 //Algorithm to determine if string has unique characters
 public class DeterminingUniqueCharactersUsingArray {

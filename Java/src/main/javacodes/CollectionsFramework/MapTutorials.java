@@ -1,10 +1,8 @@
-package javacodes.CCI.Arrays;
+package javacodes.CollectionsFramework;
 
-import org.graalvm.compiler.replacements.StandardGraphBuilderPlugins;
-
-import java.util.Collection;
 import java.util.HashMap;
-import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
 import java.util.Set;
 
 public class MapTutorials {
@@ -18,6 +16,16 @@ public class MapTutorials {
         System.out.println(hmp.get("A"));
         System.out.println( hmp.containsKey("A"));
         Set s= hmp.entrySet();
+
+        Iterator i= s.iterator();
+        while(i.hasNext())
+        {
+            System.out.println(i.next());
+            Map.Entry mp = (Map.Entry) i.next();
+            System.out.println(mp.getKey());
+            System.out.println(mp.getValue());
+        }
+
         
 
 

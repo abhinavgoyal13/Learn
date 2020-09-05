@@ -1,4 +1,4 @@
-package javacodes.CCI.Arrays;
+package javacodes.CollectionsFramework;
 
 import java.util.ArrayList;
 import java.util.Iterator;
