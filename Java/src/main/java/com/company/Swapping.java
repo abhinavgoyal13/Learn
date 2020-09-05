@@ -1,4 +1,4 @@
-package com.company;
+package main.java.com.company;
 
 public class Swapping {
     public static void swap2Int(int x,int y)

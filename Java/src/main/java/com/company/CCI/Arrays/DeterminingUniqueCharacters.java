@@ -1,4 +1,4 @@
-package com.company.CCI.Arrays;
+package main.java.com.company.CCI.Arrays;
 
 //Algorithm to determine if string has unique characters
 public class DeterminingUniqueCharacters {

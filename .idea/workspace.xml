@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d0cb1bc-de4a-47b6-a610-b302560e2a85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/GreatestNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/NumberCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/StringCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/Swapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/untitled104/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/CCI/Arrays/DeterminingUniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/CCI/Arrays/DeterminingUniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/GreatestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/GreatestNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/NumberCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/NumberCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/StringCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/StringCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/Swapping.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h3Q7BYbmtzdjqBLZ16kcHbZYCU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CCI.Arrays.Driver.Main" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.CCI.Arrays.Driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.company.Main" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0cb1bc-de4a-47b6-a610-b302560e2a85" name="Default Changelist" comment="" />
+      <created>1599237141012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599237141012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599237423136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237423136" />
+    <state x="463" y="76" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599237377092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="76" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237377092" />
+    <state x="412" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599237421323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237421323" />
+    <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599237720234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1599237720234" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1599241170731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1599241170731" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1599238770131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1599238770131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1599238770131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1599238770131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
+    <state x="462" y="77" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599316183203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="77" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1599316183203" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599241762475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599241762475" />
+  </component>
+</project>

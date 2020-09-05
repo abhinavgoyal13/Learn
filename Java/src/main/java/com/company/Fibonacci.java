@@ -1,4 +1,4 @@
-package com.company;
+package main.java.com.company;
 
 public class Fibonacci {
     public static void fibonacciByLimit(int x) {
