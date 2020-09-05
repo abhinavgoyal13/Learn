@@ -1,4 +1,4 @@
-package main.java.com.company;
+package javacodes;
 
 import java.util.Random;
 

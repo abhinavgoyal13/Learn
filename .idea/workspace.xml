@@ -5,7 +5,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d0cb1bc-de4a-47b6-a610-b302560e2a85" name="Default Changelist" comment="" />
+    <list default="true" id="9d0cb1bc-de4a-47b6-a610-b302560e2a85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/CCI/Arrays/Driver/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/CCI/Arrays/PermutationsOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/company/oops/inherit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/CCI/Arrays/DeterminingUniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/CCI/Arrays/DeterminingUniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/GreatestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/GreatestNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/NumberCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/NumberCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/StringCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/StringCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/com/company/Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/javacodes/Swapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/CCI/Arrays/DeterminingUniqueCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/CCI/Arrays/Driver/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/CCI/Arrays/PermutationsOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/GreatestNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/NumberCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/StringCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/com/company/Swapping.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +53,65 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DeterminingUniqueCharacters (2)">
+    <configuration name="DeterminingUniqueCharacters (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.CCI.Arrays.DeterminingUniqueCharacters" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.CCI.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeterminingUniqueCharacters (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacodes.CCI.Arrays.DeterminingUniqueCharacters" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacodes.CCI.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeterminingUniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.CCI.Arrays.DeterminingUniqueCharacters" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.com.company.CCI.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacodes.Main" />
+      <module name="Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CCI.Arrays.Driver.Main" />
+      <option name="MAIN_CLASS_NAME" value="java.Main" />
       <module name="Learn" />
       <extension name="coverage">
         <pattern>
@@ -52,9 +130,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DeterminingUniqueCharacters" />
+      <item itemvalue="Application.DeterminingUniqueCharacters (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.DeterminingUniqueCharacters (2)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeterminingUniqueCharacters (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DeterminingUniqueCharacters (1)" />
+        <item itemvalue="Application.DeterminingUniqueCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -82,18 +171,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599237423136">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599323523636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237423136" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599323523636" />
     <state x="463" y="76" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599237377092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="76" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237377092" />
-    <state x="412" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599237421323">
+    <state x="412" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599323519741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="412" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237421323" />
+    <state x="412" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1599323519741" />
     <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599237720234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -102,22 +191,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1599241170731" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1599238770131">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1599323595215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1599238770131">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599323595215" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1599323595215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1599238770131">
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599323595215" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1599323595215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1599238770131">
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599323595215" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1599323595215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599323595215" />
     <state x="129" y="55" key="MergeDialog" timestamp="1599321735006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -126,6 +215,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1599321941507" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599323466764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599323466764" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1599323092020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1599323092020" />
     <state x="462" y="77" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599316183203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

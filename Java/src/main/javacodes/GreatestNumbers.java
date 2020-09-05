@@ -1,4 +1,4 @@
-package main.java.com.company;
+package javacodes;
 
 public class GreatestNumbers {
     public static void greatestOfArray(int[] array)

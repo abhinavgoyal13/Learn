@@ -1,4 +1,4 @@
-package main.java.com.company;
+package javacodes;
 
 public class Swapping {
     public static void swap2Int(int x,int y)

@@ -1,4 +1,4 @@
-package main.java.com.company.CCI.Arrays;
+package javacodes.CCI.Arrays;
 
 //Algorithm to determine if string has unique characters
 public class DeterminingUniqueCharacters {
@@ -15,5 +15,11 @@ public class DeterminingUniqueCharacters {
             }
         }
         return true;
+    }
+
+    public static void main(String[] args)
+    {
+        DeterminingUniqueCharacters duc = new DeterminingUniqueCharacters();
+        System.out.println(duc.determineUniqueChars("acbskjsabvkas"));
     }
 }
