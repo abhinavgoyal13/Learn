@@ -1,7 +1,7 @@
 package javacodes.CCI.Arrays;
 
 //Algorithm to determine if string has unique characters
-public class DeterminingUniqueCharacters {
+public class DeterminingUniqueCharactersUsingArray {
 
     public boolean determineUniqueChars(String str) {
         str=str.toLowerCase();
@@ -19,7 +19,7 @@ public class DeterminingUniqueCharacters {
 
     public static void main(String[] args)
     {
-        DeterminingUniqueCharacters duc = new DeterminingUniqueCharacters();
+        DeterminingUniqueCharactersUsingArray duc = new DeterminingUniqueCharactersUsingArray();
         System.out.println(duc.determineUniqueChars("acbskjsabvkas"));
     }
 }
