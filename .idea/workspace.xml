@@ -5,34 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d0cb1bc-de4a-47b6-a610-b302560e2a85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/GreatestNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/NumberCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/StringCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/company/Swapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/out/production/untitled104/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/CCI/Arrays/DeterminingUniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/CCI/Arrays/DeterminingUniqueCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/GreatestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/GreatestNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/NumberCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/NumberCodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/StringCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/StringCodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/company/Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/com/company/Swapping.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d0cb1bc-de4a-47b6-a610-b302560e2a85" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +118,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599238770131" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1599321735006">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1599321735006" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1599321941507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1599321941507" />
     <state x="462" y="77" key="git4idea.branch.GitSmartOperationDialog" timestamp="1599316183203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
