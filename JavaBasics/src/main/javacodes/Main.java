@@ -1,7 +1,7 @@
 package javacodes;
 
 public class Main {
-
+    // main function
     public static void main(String[] args) {
 	// write your code here
         System.out.println("Abhinav Goyal");
